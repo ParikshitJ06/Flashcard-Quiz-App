@@ -1,5 +1,6 @@
 # Flashcard-Quiz-App
-
+![Flashcard Quiz App Screenshot](./assets/screenshot1.png)
+![Flashcard Quiz App Screenshot](./assets/screenshot2.png)
 
 ## Overview
 
@@ -13,6 +14,7 @@ The Flashcard Quiz App is a web-based application designed to help users learn a
 - **Responsive Design**: The app is fully responsive, ensuring a seamless experience on both desktop and mobile devices.
 
 ## Screenshots
+
 
 
 ## Technologies Used

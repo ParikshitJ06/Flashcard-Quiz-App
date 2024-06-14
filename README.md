@@ -1,5 +1,5 @@
 # Flashcard-Quiz-App
-![Flashcard Quiz App Screenshot](./assets/screenshot-1png)
+![Flashcard Quiz App Screenshot](./assets/screenshot-1.png)
 ![Flashcard Quiz App Screenshot](./assets/screenshot-2.png)
 ## Overview
 

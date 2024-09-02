@@ -1,5 +1,4 @@
 # Flashcard-Quiz-App
-## Overview
 The Flashcard Quiz App is a web-based application designed to help users learn and review information using flashcards. Users can create, edit, and quiz themselves on different sets of flashcards. The app is built using HTML, CSS, and JavaScript, providing a clean and intuitive user interface.
 
 ## Features
